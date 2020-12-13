@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    
+  }
+
+  
+
+  .show {
+    width: 100%;
+    margin: 35px auto;
+    border-radius: 10px;
+    background: #242526;
+    padding:20px 5px ;
+  }
+
+
+  
+
+
+  body{
+      display: flex;
+      background: black;
+  }
+
+.profile{
+    width: 50px;
+    height: 35px;
+    display: inline;
+    border-radius: 50%;
+    
+}
+
+.title{
+    display: inline;
+    margin-top: 5px;
+
+}
+
+.post{
+    width: 500px
+}
